@@ -1,0 +1,11 @@
+{
+    "Game Instructions": {
+        "Title": "How to play: ",
+        "Step1": "Select one of your checkers pieces.",
+        "Step2": "Squares on the board will light up as possible new places for your piece to move.",
+        "Step3": "View the possble moves and select one of the options for your piece to go.",
+        "Step4": "The goal is to move your pieces further up the board, while trying to 'jump' over your opponent's pieces.",
+        "Step5": "Pieces can only move diaginol and forward, and pieces that are 'jumped' over are eliminated.",
+        "Step6": "You should play stratigically to protect your pieces and take out as many of your opponents to win. Good luck!"
+    }
+}
